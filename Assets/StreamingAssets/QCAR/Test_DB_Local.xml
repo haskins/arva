@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="street" size="200.000000 59.012444" />
+    <ImageTarget name="cfur2" size="200.000000 121.144028" />
+    <ImageTarget name="cfur1" size="200.000000 69.343407" />
+    <ImageTarget name="bookstore" size="200.000000 200.881836" />
+    <ImageTarget name="echo3" size="200.000000 157.601974" />
+    <ImageTarget name="echo2" size="200.000000 173.736374" />
+    <ImageTarget name="nuggs" size="200.000000 74.019608" />
+    <ImageTarget name="moose2" size="200.000000 90.569748" />
+    <ImageTarget name="moose" size="200.000000 148.837204" />
+    <ImageTarget name="canfor2" size="200.000000 289.547333" />
+    <ImageTarget name="canfor" size="200.000000 64.430244" />
+    <ImageTarget name="cheerios" size="200.000000 150.000000" />
+    <ImageTarget name="spoon" size="200.000000 150.000000" />
+    <ImageTarget name="vector" size="200.000000 75.890411" />
+    <ImageTarget name="delissio" size="200.000000 38.354347" />
+    <ImageTarget name="tth" size="200.000000 252.906403" />
+    <ImageTarget name="oldpgmap" size="200.000000 166.631012" />
+    <ImageTarget name="motherboard" size="200.000000 249.449203" />
+    <ImageTarget name="mostache" size="200.000000 254.122803" />
+    <ImageTarget name="gmd" size="200.000000 251.950516" />
+    <ImageTarget name="echo" size="200.000000 266.666656" />
+    <ImageTarget name="degrees" size="200.000000 36.536690" />
+    <ImageTarget name="tea" size="200.000000 343.589752" />
+    <ImageTarget name="pizza" size="200.000000 208.571426" />
+    <ImageTarget name="nuggets" size="200.000000 126.008583" />
+    <ImageTarget name="chopper" size="200.000000 168.410461" />
+    <ImageTarget name="chocolate2" size="200.000000 135.627914" />
+    <ImageTarget name="robot" size="200.000000 266.600006" />
+    <ImageTarget name="shephard" size="200.000000 139.000000" />
+    <ImageTarget name="dolphin" size="200.000000 266.799988" />
+    <ImageTarget name="dna" size="200.000000 728.867615" />
+    <ImageTarget name="5-177" size="200.000000 199.632187" />
+    <ImageTarget name="5-176" size="200.000000 199.911469" />
+    <ImageTarget name="5-159" size="200.000000 195.107040" />
+    <ImageTarget name="5-157" size="200.000000 204.374130" />
+    <ImageTarget name="chocolate" size="200.000000 224.495544" />
+    <ImageTarget name="art" size="200.000000 425.891479" />
+    <ImageTarget name="chips_bw" size="200.000000 140.000000" />
+    <ImageTarget name="chips" size="200.000000 140.000000" />
+    <ImageTarget name="thing1" size="1000.000000 1334.000000" />
+  </Tracking>
+</QCARConfig>
